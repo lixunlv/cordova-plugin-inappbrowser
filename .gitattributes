@@ -16,3 +16,4 @@
 # under the License.
 
 * text eol=lf
+*.png binary
